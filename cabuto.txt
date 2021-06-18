@@ -2,4 +2,8 @@ cabuto felipe
 
 3° alteração
 
+<<<<<<< HEAD
 4° alteração
+=======
+<alteracao por felipe araujo 17:12>
+>>>>>>> dab14a1fba33adbff9948eff18ee5b875fe9ca98
