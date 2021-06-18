@@ -4,6 +4,13 @@ Gaspar 2º Alteração
 3° alteração
 =======
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+4° alteração
+=======
+<alteracao por felipe araujo 17:12>
+>>>>>>> dab14a1fba33adbff9948eff18ee5b875fe9ca98
+=======
 3° rodrigo
 alteracao
 <alteracao por felipe araujo 17:12>
@@ -12,3 +19,4 @@ Gaspar Fazendo 3º Alteração
 
 <alteracao por felipe araujo 17:12>
 >>>>>>> 911c077d3bcb90561d865d884d46c8eaf28738bc
+>>>>>>> 4374e86b4145c9c3ac19f63357f1e063450ece33
