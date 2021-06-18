@@ -5,8 +5,10 @@ Gaspar 2º Alteração
 =======
 
 3° rodrigo
+alteracao
+<alteracao por felipe araujo 17:12>
 
 Gaspar Fazendo 3º Alteração
 
 <alteracao por felipe araujo 17:12>
->>>>>>> 8c473838356570df6e6ff92b0e0b5daa0b0d41e5
+>>>>>>> 911c077d3bcb90561d865d884d46c8eaf28738bc
