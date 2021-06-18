@@ -1,2 +1,6 @@
 cabuto
+<<<<<<< HEAD
+felipe araujo
+=======
 Gaspar
+>>>>>>> 471a9430c83c842852a67777355a47c7a801b751
