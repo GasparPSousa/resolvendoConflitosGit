@@ -1,5 +1,12 @@
-cabuto felipe
+Cabuto felipe
+
+Gaspar 2º Alteração
+3° alteração
+=======
 
 3° rodrigo
 alteracao
 <alteracao por felipe araujo 17:12>
+
+<alteracao por felipe araujo 17:12>
+>>>>>>> 911c077d3bcb90561d865d884d46c8eaf28738bc
